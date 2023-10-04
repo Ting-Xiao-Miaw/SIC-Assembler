@@ -11,7 +11,7 @@
 | 12345879  | 0123456789  | 0123456789  |
 | 1-8 label  | 10-15 opcode  | 18- operand  |
 
-## Run
+## Run in Ubuntu
 ```
  cat SAMPLE-input-1 | ./split | ./pass1
 ./pass2
