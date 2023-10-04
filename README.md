@@ -4,6 +4,7 @@
 1. split.cpp: The normalized format, characters transformed to uppercase.
 2. pass1.cpp: Reads the output of the previous program and writes the output to two files, INTFILE and SYMTAB.
 3. pass2.cpp: Reads the file INTFILE and SYMTAB which generated from previous program. The object file, should be printed to the stdout.
+
 | 1 | 2 | 3 |
 | ------------- | ------------- | ------------- |
 | 12345879  | 0123456789  | 0123456789  |
