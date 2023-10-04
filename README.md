@@ -1,4 +1,4 @@
-# SIC-Asm-to-Obj
+# SIC-Assembler
 
 ## File
 1. split.cpp: The normalized format, characters transformed to uppercase.
