@@ -2,10 +2,9 @@
 
 ## File
 1. split.cpp: The normalized format, characters transformed to uppercase.
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-3. pass1.cpp: Reads the output of the previous program and writes the output to two files, INTFILE and SYMTAB.
-4. pass2.cpp: Reads the file INTFILE and SYMTAB which generated from previous program. The object file, should be printed to the stdout.
-
+2. pass1.cpp: Reads the output of the previous program and writes the output to two files, INTFILE and SYMTAB.
+3. pass2.cpp: Reads the file INTFILE and SYMTAB which generated from previous program. The object file, should be printed to the stdout.
+| 1 | 2 | 3 |
+| ------------- | ------------- | ------------- |
+| 12345879  | 0123456789  | 0123456789  |
+| 1-8 label  | 10-15 opcode  | 18- operand  |
